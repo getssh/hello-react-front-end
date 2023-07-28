@@ -99,7 +99,7 @@ Clone this repository to your desired folder:
 
 git clone https://github.com/getssh/hello-react-front-end
 
-cd bookstore
+cd hello-react-front-end
 
 ### Install
 
